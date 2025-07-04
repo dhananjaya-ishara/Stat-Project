@@ -57,12 +57,12 @@ We worked with **6 synthetic datasets**, each designed to reflect real-world dat
 
 | 📁 Dataset                  | 🔍 Purpose                                         |
 | --------------------------- | -------------------------------------------------- |
-| `employee_performance.xlsx` | Mann-Whitney U Test (Group A vs. B performance)    |
-| `health_data.xlsx`          | T-Test (blood pressure: diabetic vs. non-diabetic) |
-| `employee_salaries.xlsx`    | Multiple regression (salary prediction)            |
-| `house_prices.xlsx`         | Regression model (house price prediction)          |
-| `monthly_retail_sales.xlsx` | ARIMA/SARIMA (retail trend forecasting)            |
-| `weather_data.xlsx`         | Time series modeling (temperature prediction)      |
+| `employee_performance.csv` | Mann-Whitney U Test (Group A vs. B performance)    |
+| `health_data.csv`          | T-Test (blood pressure: diabetic vs. non-diabetic) |
+| `employee_salaries.csv`    | Multiple regression (salary prediction)            |
+| `house_prices.csv`         | Regression model (house price prediction)          |
+| `monthly_retail_sales.csv` | ARIMA/SARIMA (retail trend forecasting)            |
+| `weather_data.csv`         | Time series modeling (temperature prediction)      |
 
 ---
 
