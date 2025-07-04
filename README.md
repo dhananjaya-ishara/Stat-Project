@@ -25,6 +25,57 @@
 
 ---
 
+## 🧭 Project Workflow – Step-by-Step Guide
+
+Here's a quick look at how we built our Advanced Statistics project from scratch using Python in **Google Colab**:
+
+---
+
+### ☁️ 1. **Google Colab as Our Playground**
+
+We used **Google Colab** to write, execute, and collaborate on our Python code seamlessly in the cloud — no local installations needed!
+
+---
+
+### 🧠 2. **Script Development**
+
+We organized our work into two core Python files:
+
+* `📌 StatProject.py` – The **main analysis script**, containing all logic for:
+
+  * Hypothesis testing
+  * Regression modeling
+  * Time series forecasting
+
+* `🧪 StatProject_test.py` – A **testing script** to validate model outputs and functions, ensuring our results were statistically sound.
+
+---
+
+### 📂 3. **Datasets We Explored**
+
+We worked with **6 synthetic datasets**, each designed to reflect real-world data challenges:
+
+| 📁 Dataset                  | 🔍 Purpose                                         |
+| --------------------------- | -------------------------------------------------- |
+| `employee_performance.xlsx` | Mann-Whitney U Test (Group A vs. B performance)    |
+| `health_data.xlsx`          | T-Test (blood pressure: diabetic vs. non-diabetic) |
+| `employee_salaries.xlsx`    | Multiple regression (salary prediction)            |
+| `house_prices.xlsx`         | Regression model (house price prediction)          |
+| `monthly_retail_sales.xlsx` | ARIMA/SARIMA (retail trend forecasting)            |
+| `weather_data.xlsx`         | Time series modeling (temperature prediction)      |
+
+---
+
+### 🧼 4. **Generated Cleaned Files**
+
+During the project, we also generated two new structured files:
+
+* `🧊 weather_data0.csv`: A cleaned & transformed version of the original weather dataset, optimized for forecasting
+* `📘 Book1.csv`: A supplementary dataset created for additional analysis or exploratory testing
+
+---
+
+
 ## 🔧 Tools & Libraries
 
 * `pandas`, `numpy` – Data manipulation
